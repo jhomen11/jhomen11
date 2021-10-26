@@ -1,4 +1,4 @@
-### Hi there, I'm Jhonny Mendoza  👋
+### Hola, soy Jhonny Mendoza  👋
 
 <!--
 **jhomen11/jhomen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
