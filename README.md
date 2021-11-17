@@ -10,9 +10,9 @@ Actualmente enfocado en el desarrollo web obteniendo conocimientos en tecnologí
 
 ```javascript
 let My_Skills:{
-    skill_1:'Html',
+    skill_1: 'Html',
     skill_2: 'Css',
-    skill_3:'Javascript',
+    skill_3: 'Javascript',
     skill_4: 'React'
     skill_5: 'SQL',
     skill 6: 'GIT'
