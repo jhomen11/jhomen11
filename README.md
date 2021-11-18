@@ -4,7 +4,7 @@
 
 Informático apasionado por la tecnología, con más de 5 años de experiencia trabajando en el área de infraestructura. 
 
-Actualmente enfocado en el desarrollo web obteniendo conocimientos en tecnologías como **HTML, CSS, JavaScript, React JS, NodeJS, SQL, Git** entre otras, para el desarrollo de páginas y aplicaciones web.
+Actualmente enfocado en el desarrollo web con conocimientos en tecnologías como **HTML, CSS, JavaScript, React JS, NodeJS, SQL, Git** entre otras, para el desarrollo de páginas y aplicaciones web.
 
 
 
