@@ -16,8 +16,9 @@ let My_Skills:{
     skill_4: 'React Js'
     skill_5: 'SQL',
     skill_6: 'GIT',
-    skill_7: 'Bootstrap 5'
-    skill_8: 'Python'
+    skill_7: 'Bootstrap 5',
+    skill_8: 'Python',
+    skill_9: 'Flask'
 }
  ```
 <!--
