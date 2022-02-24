@@ -14,11 +14,13 @@ let My_Skills:{
     skill_2: 'Css',
     skill_3: 'Javascript',
     skill_4: 'React Js'
-    skill_5: 'SQL',
-    skill_6: 'GIT',
-    skill_7: 'Bootstrap 5',
-    skill_8: 'Python',
-    skill_9: 'Flask'
+    skill_5: 'Redux'
+    skill_6: 'Node Js'
+    skill_7: 'SQL',
+    skill_8: 'GIT',
+    skill_9: 'Bootstrap 5',
+    skill_10: 'Python',
+    skill_11: 'Flask'
 }
  ```
 <!--
